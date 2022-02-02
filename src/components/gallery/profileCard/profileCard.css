@@ -1,0 +1,12 @@
+.imgContainer {
+  position: relative;
+  text-align: center;
+  color: white;
+  
+}
+
+.textOverImg {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
